@@ -1,0 +1,21 @@
+
+a:hover{
+    background-color: black;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+
+h3{
+    font-size: 20pt;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    background-color: rgb(173, 233, 200);
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
